@@ -2,7 +2,7 @@
 
 - Java Spring Boot
 - React js
-- Contate-me no email lhenrique5786@gmail.com
+- Contate-me no email henriquelucas.sg@gmail.com
 <div align="left">
   <a href="https://github.com/LucasHenrique12">
   
